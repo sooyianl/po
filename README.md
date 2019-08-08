@@ -1,2 +1,2 @@
 # po
-// tools used for ethernet.
+// tools used for ethernet and sensor.
